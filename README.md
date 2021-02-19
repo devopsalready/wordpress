@@ -1,6 +1,6 @@
 ## Site WordPress com Mysql Docker Compose
 
-De forma bem simples e descomplicada de subir um site em docker com wordpress e mysql
+De forma bem simples e descomplicada vamos subir um site em docker com wordpress e mysql
 
  *[WORDPRESS](https://hub.docker.com/_/wordpress/) - Última versão do wordpress
  
